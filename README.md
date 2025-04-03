@@ -17,7 +17,7 @@ AICollabGallery 是一个智能、可协同的图库项目，支持图片的上�
 首先，克隆该仓库并安装依赖：
 
 ```bash
-git clone https://github.com/yourusername/AICollabGallery.git
+git clone https://github.com/RuiqiYing/AICollabGallery.git
 cd AICollabGallery
 npm install
 ```
