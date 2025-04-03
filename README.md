@@ -80,6 +80,3 @@ AICollabGallery/
 
 欢迎提交 Pull Request 来贡献代码，或者报告 Bug。我们非常欢迎大家的参与！
 
-## License
-
-此项目采用 MIT 许可证，详情请参见 [LICENSE](./LICENSE) 文件。
